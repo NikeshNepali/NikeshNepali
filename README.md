@@ -94,7 +94,6 @@ Git, Bash, Postman, VS Code, MySQL Workbench.
 ---
 
 ## 🔗 Links
-- 🌐 GitHub: https://github.com/NikeshNepali  
 - 💼 LinkedIn: https://www.linkedin.com/in/nikeshnepali/   
 
 ---
