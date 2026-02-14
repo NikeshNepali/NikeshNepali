@@ -47,6 +47,7 @@ documentation**, reducing onboarding time for future developers and support staf
 format** for task operations, automating task creation and updates.
 - Increased application reliability by **designing RESTful APIs and validating endpoints using Postman**, ensuring
 consistent backend–frontend communication.
+
 **Tools:** VS Code, Postman.
 
 ### 📘 Student Enrollment System (2025)
