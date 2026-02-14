@@ -27,12 +27,12 @@ Northwest Missouri State University
 *Nov 2025 – Present*
 - Optimized backend efficiency by maintaining **Canvas API data-fetch logic**, preventing unnecessary API calls
 when input fields were empty, resulting in improved performance and reduced server load.
-- Improved UI responsiveness of the University Attendance Tracking System by implementing **Bootstrap and CSS**
-fixes.
 - Increased reliability of the online textbook finder system by conducting **functional testing and identifying
 usability issues**, ensuring accurate search results and improved system stability.
 - Enhanced maintainability of the ATS platform by preparing comprehensive **functional and technical
 documentation**, reducing onboarding time for future developers and support staff.
+- Improved UI responsiveness of the University Attendance Tracking System by implementing **Bootstrap and CSS**,
+for enhanced user experience across multiple screen size.
 - Participated in **weekly meetings** to share development progress and **discuss ideas**,
   ensuring alignment with project goals and contributing to timely delivery of features.
 
